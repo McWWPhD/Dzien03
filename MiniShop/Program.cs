@@ -10,6 +10,7 @@ namespace MiniShop
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

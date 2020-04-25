@@ -1,0 +1,6 @@
+C:\Users\ABBYS\source\repos\Dzien03\Klasy\bin\Debug\Klasy.exe.config
+C:\Users\ABBYS\source\repos\Dzien03\Klasy\bin\Debug\Klasy.exe
+C:\Users\ABBYS\source\repos\Dzien03\Klasy\bin\Debug\Klasy.pdb
+C:\Users\ABBYS\source\repos\Dzien03\Klasy\obj\Debug\Klasy.csprojAssemblyReference.cache
+C:\Users\ABBYS\source\repos\Dzien03\Klasy\obj\Debug\Klasy.exe
+C:\Users\ABBYS\source\repos\Dzien03\Klasy\obj\Debug\Klasy.pdb

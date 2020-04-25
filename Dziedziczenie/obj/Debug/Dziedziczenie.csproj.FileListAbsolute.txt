@@ -1,0 +1,6 @@
+C:\Users\ABBYS\source\repos\Dzien03\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\ABBYS\source\repos\Dzien03\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\ABBYS\source\repos\Dzien03\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\ABBYS\source\repos\Dzien03\Dziedziczenie\obj\Debug\Dziedziczenie.csprojAssemblyReference.cache
+C:\Users\ABBYS\source\repos\Dzien03\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\ABBYS\source\repos\Dzien03\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
